@@ -1,25 +1,32 @@
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-# Camera app with Qt and OpenCV
+# Camera application with Qt and Opencv
 
-Camera application written in C ++ programming language using Qt and Opencv modules. You can take high quality photos with the desired extension. You can record video in high quality, desired FPS, desired extension and for the desired duration. In addition, you can do all these operations on your local and remote IP camera.
+<p align="center">
+  <img src="https://ahmetfurkandemir.s3.amazonaws.com/camera.png" />
+</p>
+
+
+<ul>
+  <li>Take high quality photos with the desired extension.</li>
+  <li>Record video in high quality, desired FPS, desired extension and for the desired duration.</li>
+  <li>Use functionnalities on your local and remote IP camera.</li>
+</ul>
 
 **Requirements**
 
-[Qt](https://www.qt.io/download-open-source)
+<ul>
+  <li>QT</li>
+  <li>OpenCV</li>
+</ul>
 
-[Opencv](https://opencv.org/releases/)
+**Available on**
 
 |        OS      |   Supports  |
 | ---------------| ----------- |
-| Linux (Ubuntu) |      ✓      |
+| Linux (Debian) |      ✓      |
 | MacOS          |      ✓      |
 | Windows        |      ✓      |
 
 
-### **Application video and images**
 
-**Video:**
-
-
-**Images:**
